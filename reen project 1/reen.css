@@ -135,8 +135,9 @@ a{
 }
 .beautiful2{
 	float: left;
-	font-size: 20px;
+	font-size: 25px;
 	font-family: montserrat;
 	text-align: center;
 	padding: 20px 0;
+	color: #3d4f63;
 }
