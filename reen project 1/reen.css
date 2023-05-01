@@ -1,0 +1,135 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header{
+background-color:#f0f0f0;
+padding: 5px 0px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	padding: 0;
+	margin: 0;
+}
+
+P{
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	color:#8891a0;
+	font-weight: 550;
+}
+.paragraph1{
+	padding: 10px 0;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.container{
+	max-width:1100px;
+	margin: 0 auto;
+}
+
+.float-left{
+	float: left;
+}
+.width50{
+	width: 50%;
+}
+
+.width100{
+	width: 100%;
+}
+
+.width10{
+	width: 10%;
+	text-align: right;
+}
+
+.width20{
+	width: 20%;
+}
+
+.width70{
+	width: 70%;
+}
+
+
+.flex{
+	display: inline-flex;
+}
+.text-right
+{
+	text-align: right;
+}
+
+.text-center
+{
+	text-align: center;
+}
+
+a{
+	font-family: montserrat;
+	text-decoration:none ;
+	color: #506a85;
+}
+.link1{
+	color: white;
+	font-weight: 600;
+}
+
+.icon{
+	width:20px;
+	height: 20px;
+	padding-right: 5px;
+}
+
+.navigations{
+	padding: 7px 0px;
+	font-weight: bold;
+	font-family: montserrat;
+	font-size: 13px;
+}
+.tags{
+	padding-right:20px;
+}
+.font{
+	font-size: 12px;
+}
+.logo1{
+	width: 90px;
+	height: 30px;
+}
+
+.relative{
+	position: relative;
+}
+
+.absolute{
+	position: absolute;
+	font-family: montserrat;
+	color: white;
+	font-size: 70px;
+
+}
+
+.center1{
+	text-align: center;
+	top: 50%;
+	left: 40%;
+	transform: translate(-30%,-50%);
+}
+
+.button1{
+	font-size: 15px;
+	padding: 10px 20px ;
+	background-color: green;
+	width: 150px;
+	margin: 10px auto;
+	border-radius: 5px;
+
+}
