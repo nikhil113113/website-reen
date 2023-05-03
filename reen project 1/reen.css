@@ -132,6 +132,9 @@ a{
 	border-radius: 5px;
 
 }
+.beautiful2{
+	padding-bottom: 80px;
+}
 .head2{
 	font-size: 30px;
 	padding: 20px 0;
@@ -162,6 +165,55 @@ a{
 	padding-right: 10px;
 }
 .paragraph-a{
-	font-size:14px;
-	line-height: 25px;
+	font-size:12px;
+	line-height: 20px;
+}
+.header4{
+	background-color:#f0f0f0;
+	padding-bottom: 50px;
+}
+.create2{
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.txtlancntr{
+	text-align: center;
+}
+.paddingright50{
+	padding-top:20px;
+	padding-right: 25px;
+}
+.paddingleft50{
+	padding-left: 25px;
+	padding-top:20px;
+
+}
+.textcntr{
+	text-align: center;
+	background-color: white;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-weight: 800;
+}
+
+.margin{
+	margin-top:px;
+}
+.paddingright25{
+	padding-top: 30px;
+	padding-right: 25px;
+}
+
+.paddingleft12{
+	padding-top: 30px;
+	padding-left: 12.5px;
+}
+
+.paddingright12{
+	padding-top: 30px;
+	padding-right: 12.5px;
+}
+
+.width25{
+	width:25%;
 }
