@@ -233,10 +233,11 @@ padding-top: 30px;
 padding-bottom: 30px;
 }
 .WHOWE{
+	font-size:19px;
 	color: white;
 	font-weight: 600;
 	padding-left: 10PX;
-	padding-bottom: 40PX;
+	padding-bottom: 10PX;
 }
 .logo2{
 	width: 160px;
