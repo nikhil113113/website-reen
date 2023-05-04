@@ -23,6 +23,8 @@ P{
 }
 .paragraph1{
 	padding: 10px 0;
+	text-align: center;
+	line-height: 25px;
 }
 
 ul{
@@ -179,15 +181,12 @@ padding-bottom: 50px;
 .txtlancntr{
 	text-align: center;
 }
-.paddingright50{
-	padding-top:20px;
-	padding-right: 25px;
-}
-.paddingleft50{
-	padding-left: 25px;
-	padding-top:20px;
+
+.padding15{
+	padding: 30px 15px ;
 
 }
+
 .textcntr{
 	text-align: center;
 	background-color: white;
@@ -199,21 +198,47 @@ padding-bottom: 50px;
 .margin{
 	margin-top:px;
 }
-.paddingright25{
-	padding-top: 30px;
-	padding-right: 25px;
-}
 
-.paddingleft12{
-	padding-top: 30px;
-	padding-left: 12.5px;
-}
 
-.paddingright12{
-	padding-top: 30px;
-	padding-right: 12.5px;
-}
 
 .width25{
-	width:25%;
+	width: 25%;
+}
+.padding15 h4{
+	color: #3d4f63;
+	padding-bottom: 5PX;
+}
+.BUTTON3{
+	color: white;
+	font-size: 15px;
+	padding: 10px 20px ;
+	background-color: green;
+	width: 150px;
+	margin: 10px auto;
+	border-radius: 5px;
+}
+.work1{
+	padding-top: 50PX;
+	padding-bottom: 50PX;
+}
+.WORK113{
+	
+	padding: 0px 80px 20px 80px;
+}
+.header5{
+	background-color:#2f4052;
+}
+.create3{
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.WHOWE{
+	color: white;
+	font-weight: 600;
+	padding-left: 10PX;
+	padding-bottom: 40PX;
+}
+.logo2{
+	width: 160px;
+	height: 50px;
 }
