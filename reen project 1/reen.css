@@ -225,21 +225,54 @@ padding-bottom: 50px;
 	
 	padding: 0px 80px 20px 80px;
 }
-.header5{
+.footer5{
 	background-color:#2f4052;
 }
 .create3{
-padding-top: 30px;
-padding-bottom: 30px;
+padding-top: 80px;
+padding-bottom: 80px;
 }
 .WHOWE{
 	font-size:19px;
 	color: white;
 	font-weight: 600;
 	padding-left: 10PX;
-	padding-bottom: 10PX;
+	padding-bottom: 25PX;
+}
+
+.ftr-title2{
+	font-size:19px;
+	color: white;
+	font-weight: 600;
+	padding-bottom: 35PX;
 }
 .logo2{
 	width: 160px;
 	height: 50px;
+}
+.footer1{
+	padding-left: 10px;
+	padding-right: 20px;
+	line-height: 20px;
+	font-size: 13px;
+	padding-bottom: 10px;
+}
+.ftrpding2{
+	width: 120px;
+	height: 90px;
+}
+.udrhaed1{
+	padding-left: 10px;
+	padding-top: 30px;
+	color: #9eaebe;
+}
+.icon-B{
+	padding-left:7px;
+	padding-top: 10px;
+}
+.navigations-ftr{
+	padding-left: 28px;
+}
+.footer-c{
+	padding-bottom:10PX;
 }
