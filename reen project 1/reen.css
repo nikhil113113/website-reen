@@ -30,7 +30,7 @@ P{
 ul{
 	list-style: none;
 	padding: 0;
-	margin: 0;
+	margin: 0 !important;
 }
 
 .container{
@@ -273,6 +273,20 @@ padding-bottom: 80px;
 .navigations-ftr{
 	padding-left: 28px;
 }
-.footer-c{
-	padding-bottom:10PX;
+.linkftrbtn{
+	color: white;
+	font-size: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 70px;
+	background-color:#4f5c6d;
+	width: 150px;
+	margin: 10px auto;
+	border-radius: 5px;
+}
+.buttnftr{
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-right:60px;
 }
